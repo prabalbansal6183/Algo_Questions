@@ -4,3 +4,6 @@
 [submodule "divide-Conquer"]
 	path = divide-Conquer
 	url = ./divide-Conquer
+[submodule "C-Programs"]
+	path = C-Programs
+	url = https://github.com/prabalbansal6183/C-Programs
