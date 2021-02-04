@@ -1,0 +1,6 @@
+[submodule "Backtracking"]
+	path = Backtracking
+	url = ./Backtracking
+[submodule "divide-Conquer"]
+	path = divide-Conquer
+	url = ./divide-Conquer
